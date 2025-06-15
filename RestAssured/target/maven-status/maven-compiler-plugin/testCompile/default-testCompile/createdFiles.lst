@@ -1,3 +1,4 @@
+com\restassured\tests\OpenWeatherMapTests.class
 com\restassured\endpoints\ApiEndpoints.class
-com\restassured\tests\BaseTest.class
 com\restassured\tests\JsonPlaceholderTests.class
+com\restassured\tests\BaseTest.class

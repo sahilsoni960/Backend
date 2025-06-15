@@ -7,6 +7,6 @@ public class ApiEndpoints {
     public static final String JSONPLACEHOLDER_POST_BY_ID = "/posts/{id}";
 
     // OpenWeatherMap Endpoints
-    // public static final String OPENWEATHER_CURRENT_WEATHER = "/weather";
+    public static final String OPENWEATHER_CURRENT_WEATHER = "/weather";
     // public static final String OPENWEATHER_FORECAST = "/forecast";
 } 

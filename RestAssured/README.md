@@ -91,7 +91,7 @@ The project will adhere to the standard Maven project structure:
 - [x] Create `com.restassured.endpoints.ApiEndpoints.java`.
 - [x] Create `com.restassured.utils.ResponseUtils.java`.
 - [x] Create `com.restassured.tests.BaseTest.java`.
-- [x] Create `com.restassured.tests.JsonPlaceholderTests.java` for GET, POST, PUT, DELETE examples.
+- [x] Create `com.restassured.tests.JsonPlaceholderTests.java` for GET, POST, PUT, DELETE examples, and `com.restassured.tests.OpenWeatherMapTests.java`.
 - [x] Investigate and add reporting mechanism (e.g., Allure).
 - [x] Error Handling & Logging: Incorporate robust error handling and logging.
 - [x] Review and Refactor: Ensure code quality and maintainability. 
