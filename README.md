@@ -14,8 +14,11 @@ This repository aims to:
 
 ## ✨ Key Areas of Focus
 
-*   **REST API Testing**: Utilizing powerful libraries like Rest Assured for efficient and effective API validation. 🧪
-*   **Database Testing**: Ensuring data integrity and consistency. 🗄️
+*   **REST API Testing**: Utilizing powerful libraries like Rest Assured for efficient and effective API validation. 🔌
+*   **SOAP API Testing**: Ensuring the reliability of XML-based web services. 📜
+*   **Database Testing**: Verifying data integrity and consistency across various databases (SQL & NoSQL). 🗄️
+*   **Message Queue Testing**: Validating asynchronous communication and message processing (e.g., Kafka, RabbitMQ). 📨
+*   **Event Streaming Platform Testing**: Ensuring real-time data flow and processing integrity. 🌊
 *   **Performance Testing**: Assessing scalability and responsiveness of backend systems. ⚡
 *   **Security Testing**: Identifying vulnerabilities in backend services. 🔒
 *   **Integration Testing**: Verifying interactions between different backend components. 🔗
