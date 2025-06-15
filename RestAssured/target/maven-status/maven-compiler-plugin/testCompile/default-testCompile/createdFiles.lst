@@ -1,0 +1,3 @@
+com\restassured\endpoints\ApiEndpoints.class
+com\restassured\tests\BaseTest.class
+com\restassured\tests\JsonPlaceholderTests.class
